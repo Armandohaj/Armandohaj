@@ -4,7 +4,7 @@
 - Software engineering student
 - The Goat
 - I love programming
-- Tecnologico Costa Rica
+- TEC
 
 
 ### 🛠 &nbsp;Technologies I have used
